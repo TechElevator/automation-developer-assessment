@@ -1,0 +1,1134 @@
+{
+  "exercises": [
+    {
+      "id": 1,
+      "name": "Intro to OOP"
+    },
+    {
+      "id": 2,
+      "name": "Intro to SQL"
+    },
+    {
+      "id": 3,
+      "name": "Polymorphism"
+    },
+    {
+      "id": 4,
+      "name": "Advanced JS"
+    },
+    {
+      "id": 5,
+      "name": "MVC - Views Part 1"
+    },
+    {
+      "id": 6,
+      "name": "MVC - Views Part 2"
+    },
+    {
+      "id": 7,
+      "name": "REST APIs"
+    },
+    {
+      "id": 8,
+      "name": "CSS Selectors"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Dinnie Gaudin",
+      "avatar": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI4NTczNTMzN15BMl5BanBnXkFtZTYwNjYwMzU0._V1_UY256_CR0,0,172,256_AL_.jpg",
+      "enrolled": true,
+      "average": null
+    },
+    {
+      "id": 2,
+      "name": "Alano Polglase",
+      "avatar": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTk1MzgzOTg5OV5BMl5BanBnXkFtZTcwNDQ4NjMxOA@@._V1_UY256_CR1,0,172,256_AL_.jpg",
+      "enrolled": true,
+      "average": null
+    },
+    {
+      "id": 3,
+      "name": "Ivory Woofendell",
+      "avatar": "https://m.media-amazon.com/images/M/MV5BMjI4NDcyNjQxNl5BMl5BanBnXkFtZTgwMzI4OTM3NjM@._V1_UY256_CR13,0,172,256_AL_.jpg",
+      "enrolled": true,
+      "average": null
+    },
+    {
+      "id": 4,
+      "name": "Serene Guirau",
+      "avatar": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NDgxMDE0NF5BMl5BanBnXkFtZTgwNTEzODMxNDE@._V1_UY256_CR1,0,172,256_AL_.jpg",
+      "enrolled": true,
+      "average": null
+    },
+    {
+      "id": 5,
+      "name": "Eleanora Elloy",
+      "avatar": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzUwMjgxNTMyOF5BMl5BanBnXkFtZTcwMTIwNzU0NA@@._V1_UX172_CR0,0,172,256_AL_.jpg",
+      "enrolled": true,
+      "average": null
+    },
+    {
+      "id": 6,
+      "name": "Stanislaus Tonkes",
+      "avatar": "https://m.media-amazon.com/images/M/MV5BMTUyMDgxNDYxOV5BMl5BanBnXkFtZTgwMTExMDEwMDI@._V1_UY256_CR9,0,172,256_AL_.jpg",
+      "enrolled": true,
+      "average": null
+    },
+    {
+      "id": 7,
+      "name": "Carolus Radcliffe",
+      "avatar": "https://m.media-amazon.com/images/M/MV5BNzk0MjE4NDYwOF5BMl5BanBnXkFtZTgwNjc5MzU1MDI@._V1_UY256_CR10,0,172,256_AL_.jpg",
+      "enrolled": true,
+      "average": null
+    },
+    {
+      "id": 8,
+      "name": "Adamo Mattaus",
+      "avatar": "https://m.media-amazon.com/images/M/MV5BMTM0ODU5Nzk2OV5BMl5BanBnXkFtZTcwMzI2ODgyNQ@@._V1_UY256_CR4,0,172,256_AL_.jpg",
+      "enrolled": true,
+      "average": null
+    },
+    {
+      "id": 9,
+      "name": "Ronald Kidder",
+      "avatar": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMjk0NTA5MF5BMl5BanBnXkFtZTcwMjM4MzU1Mw@@._V1_UY256_CR3,0,172,256_AL_.jpg",
+      "enrolled": true,
+      "average": null
+    },
+    {
+      "id": 10,
+      "name": "Wilmar Syrad",
+      "avatar": "https://images-na.ssl-images-amazon.com/images/M/MV5BODM2ODY1NDczNF5BMl5BanBnXkFtZTcwMTI0NDgxNw@@._V1_UX172_CR0,0,172,256_AL_.jpg",
+      "enrolled": true,
+      "average": null
+    },
+    {
+      "id": 11,
+      "name": "Valentine Pinchin",
+      "avatar": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjdjNTlhZjUtODA0MC00Mjc3LWExNmMtZDc5ZmI0ZmNlZWZmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX172_CR0,0,172,256_AL_.jpg",
+      "enrolled": false,
+      "average": null
+    },
+    {
+      "id": 12,
+      "name": "Avram Garnul",
+      "avatar": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0NTQ4MDY2Nl5BMl5BanBnXkFtZTgwNDk1MTEyMDE@._V1_UX172_CR0,0,172,256_AL_.jpg",
+      "enrolled": false,
+      "average": null
+    },
+    {
+      "id": 13,
+      "name": "Caye Jobbing",
+      "avatar": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjU0OTQ5NjQ5NF5BMl5BanBnXkFtZTgwNTk2ODQzNDE@._V1_UY256_CR12,0,172,256_AL_.jpg",
+      "enrolled": true,
+      "average": null
+    },
+    {
+      "id": 14,
+      "name": "Christie Thunnercliff",
+      "avatar": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTczNTgzODYyMF5BMl5BanBnXkFtZTcwNjk4ODk4Mw@@._V1_UY256_CR10,0,172,256_AL_.jpg",
+      "enrolled": true,
+      "average": null
+    },
+    {
+      "id": 15,
+      "name": "Falkner Ladel",
+      "avatar": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0NTY5OTI2MF5BMl5BanBnXkFtZTgwNDkzMzIxMzE@._V1_UY256_CR6,0,172,256_AL_.jpg",
+      "enrolled": true,
+      "average": null
+    },
+    {
+      "id": 16,
+      "name": "Emelia Knowler",
+      "avatar": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzMDk3MjI4OF5BMl5BanBnXkFtZTgwMzQxMDY5NjE@._V1_UY256_CR16,0,172,256_AL_.jpg",
+      "enrolled": true,
+      "average": null
+    },
+    {
+      "id": 17,
+      "name": "Corinna Haydon",
+      "avatar": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjYyNjg1OTU1M15BMl5BanBnXkFtZTgwNzYyNTkzMDI@._V1_UX172_CR0,0,172,256_AL_.jpg",
+      "enrolled": true,
+      "average": null
+    },
+    {
+      "id": 18,
+      "name": "Leola Durgan",
+      "avatar": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4OTk0MjE3Ml5BMl5BanBnXkFtZTgwNzM2MDE0NzE@._V1_UY256_CR10,0,172,256_AL_.jpg",
+      "enrolled": false,
+      "average": null
+    },
+    {
+      "id": 19,
+      "name": "Ric Malcher",
+      "avatar": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzI3NTYwMzIxM15BMl5BanBnXkFtZTcwMzI1ODY1NA@@._V1_UX172_CR0,0,172,256_AL_.jpg",
+      "enrolled": true,
+      "average": null
+    },
+    {
+      "id": 20,
+      "name": "Darb Fitzpayn",
+      "avatar": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_UY256_CR2,0,172,256_AL_.jpg",
+      "enrolled": true,
+      "average": null
+    }
+  ],
+  "studentScores": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "exerciseId": 1,
+      "score": 3
+    },
+    {
+      "id": 2,
+      "studentId": 1,
+      "exerciseId": 2,
+      "score": 2
+    },
+    {
+      "id": 3,
+      "studentId": 1,
+      "exerciseId": 3,
+      "score": 3
+    },
+    {
+      "id": 4,
+      "studentId": 1,
+      "exerciseId": 4,
+      "score": 2
+    },
+    {
+      "id": 5,
+      "studentId": 1,
+      "exerciseId": 5,
+      "score": 3
+    },
+    {
+      "id": 6,
+      "studentId": 1,
+      "exerciseId": 6,
+      "score": 2
+    },
+    {
+      "id": 7,
+      "studentId": 1,
+      "exerciseId": 7,
+      "score": 3
+    },
+    {
+      "id": 8,
+      "studentId": 1,
+      "exerciseId": 8,
+      "score": 2
+    },
+    {
+      "id": 9,
+      "studentId": 2,
+      "exerciseId": 1,
+      "score": 3
+    },
+    {
+      "id": 10,
+      "studentId": 2,
+      "exerciseId": 2,
+      "score": 0
+    },
+    {
+      "id": 11,
+      "studentId": 2,
+      "exerciseId": 3,
+      "score": 3
+    },
+    {
+      "id": 12,
+      "studentId": 2,
+      "exerciseId": 4,
+      "score": 3
+    },
+    {
+      "id": 13,
+      "studentId": 2,
+      "exerciseId": 5,
+      "score": 3
+    },
+    {
+      "id": 14,
+      "studentId": 2,
+      "exerciseId": 6,
+      "score": 1
+    },
+    {
+      "id": 15,
+      "studentId": 2,
+      "exerciseId": 7,
+      "score": 3
+    },
+    {
+      "id": 16,
+      "studentId": 2,
+      "exerciseId": 8,
+      "score": 3
+    },
+    {
+      "id": 17,
+      "studentId": 3,
+      "exerciseId": 1,
+      "score": 3
+    },
+    {
+      "id": 18,
+      "studentId": 3,
+      "exerciseId": 2,
+      "score": 2
+    },
+    {
+      "id": 19,
+      "studentId": 3,
+      "exerciseId": 3,
+      "score": 2
+    },
+    {
+      "id": 20,
+      "studentId": 3,
+      "exerciseId": 4,
+      "score": 3
+    },
+    {
+      "id": 21,
+      "studentId": 3,
+      "exerciseId": 5,
+      "score": 3
+    },
+    {
+      "id": 22,
+      "studentId": 3,
+      "exerciseId": 6,
+      "score": null
+    },
+    {
+      "id": 23,
+      "studentId": 3,
+      "exerciseId": 7,
+      "score": 3
+    },
+    {
+      "id": 24,
+      "studentId": 3,
+      "exerciseId": 8,
+      "score": 2
+    },
+    {
+      "id": 25,
+      "studentId": 4,
+      "exerciseId": 1,
+      "score": 3
+    },
+    {
+      "id": 26,
+      "studentId": 4,
+      "exerciseId": 2,
+      "score": 1
+    },
+    {
+      "id": 27,
+      "studentId": 4,
+      "exerciseId": 3,
+      "score": 2
+    },
+    {
+      "id": 28,
+      "studentId": 4,
+      "exerciseId": 4,
+      "score": 2
+    },
+    {
+      "id": 29,
+      "studentId": 4,
+      "exerciseId": 5,
+      "score": 2
+    },
+    {
+      "id": 30,
+      "studentId": 4,
+      "exerciseId": 6,
+      "score": 2
+    },
+    {
+      "id": 31,
+      "studentId": 4,
+      "exerciseId": 7,
+      "score": 1
+    },
+    {
+      "id": 32,
+      "studentId": 4,
+      "exerciseId": 8,
+      "score": 2
+    },
+    {
+      "id": 33,
+      "studentId": 5,
+      "exerciseId": 1,
+      "score": 2
+    },
+    {
+      "id": 34,
+      "studentId": 5,
+      "exerciseId": 2,
+      "score": 2
+    },
+    {
+      "id": 35,
+      "studentId": 5,
+      "exerciseId": 3,
+      "score": 2
+    },
+    {
+      "id": 36,
+      "studentId": 5,
+      "exerciseId": 4,
+      "score": 3
+    },
+    {
+      "id": 37,
+      "studentId": 5,
+      "exerciseId": 5,
+      "score": 0
+    },
+    {
+      "id": 38,
+      "studentId": 5,
+      "exerciseId": 6,
+      "score": 2
+    },
+    {
+      "id": 39,
+      "studentId": 5,
+      "exerciseId": 7,
+      "score": 3
+    },
+    {
+      "id": 40,
+      "studentId": 5,
+      "exerciseId": 8,
+      "score": 3
+    },
+    {
+      "id": 41,
+      "studentId": 6,
+      "exerciseId": 1,
+      "score": 2
+    },
+    {
+      "id": 42,
+      "studentId": 6,
+      "exerciseId": 2,
+      "score": 2
+    },
+    {
+      "id": 43,
+      "studentId": 6,
+      "exerciseId": 3,
+      "score": 1
+    },
+    {
+      "id": 44,
+      "studentId": 6,
+      "exerciseId": 4,
+      "score": 1
+    },
+    {
+      "id": 45,
+      "studentId": 6,
+      "exerciseId": 5,
+      "score": 2
+    },
+    {
+      "id": 46,
+      "studentId": 6,
+      "exerciseId": 6,
+      "score": 3
+    },
+    {
+      "id": 47,
+      "studentId": 6,
+      "exerciseId": 7,
+      "score": 2
+    },
+    {
+      "id": 48,
+      "studentId": 6,
+      "exerciseId": 8,
+      "score": 1
+    },
+    {
+      "id": 49,
+      "studentId": 7,
+      "exerciseId": 1,
+      "score": 2
+    },
+    {
+      "id": 50,
+      "studentId": 7,
+      "exerciseId": 2,
+      "score": 2
+    },
+    {
+      "id": 51,
+      "studentId": 7,
+      "exerciseId": 3,
+      "score": 0
+    },
+    {
+      "id": 52,
+      "studentId": 7,
+      "exerciseId": 4,
+      "score": 3
+    },
+    {
+      "id": 53,
+      "studentId": 7,
+      "exerciseId": 5,
+      "score": 1
+    },
+    {
+      "id": 54,
+      "studentId": 7,
+      "exerciseId": 6,
+      "score": 3
+    },
+    {
+      "id": 55,
+      "studentId": 7,
+      "exerciseId": 7,
+      "score": 2
+    },
+    {
+      "id": 56,
+      "studentId": 7,
+      "exerciseId": 8,
+      "score": 2
+    },
+    {
+      "id": 57,
+      "studentId": 8,
+      "exerciseId": 1,
+      "score": 3
+    },
+    {
+      "id": 58,
+      "studentId": 8,
+      "exerciseId": 2,
+      "score": 1
+    },
+    {
+      "id": 59,
+      "studentId": 8,
+      "exerciseId": 3,
+      "score": 2
+    },
+    {
+      "id": 60,
+      "studentId": 8,
+      "exerciseId": 4,
+      "score": 2
+    },
+    {
+      "id": 61,
+      "studentId": 8,
+      "exerciseId": 5,
+      "score": 3
+    },
+    {
+      "id": 62,
+      "studentId": 8,
+      "exerciseId": 6,
+      "score": 3
+    },
+    {
+      "id": 63,
+      "studentId": 8,
+      "exerciseId": 7,
+      "score": 0
+    },
+    {
+      "id": 64,
+      "studentId": 8,
+      "exerciseId": 8,
+      "score": 2
+    },
+    {
+      "id": 65,
+      "studentId": 9,
+      "exerciseId": 1,
+      "score": 2
+    },
+    {
+      "id": 66,
+      "studentId": 9,
+      "exerciseId": 2,
+      "score": 1
+    },
+    {
+      "id": 67,
+      "studentId": 9,
+      "exerciseId": 3,
+      "score": 3
+    },
+    {
+      "id": 68,
+      "studentId": 9,
+      "exerciseId": 4,
+      "score": 3
+    },
+    {
+      "id": 69,
+      "studentId": 9,
+      "exerciseId": 5,
+      "score": 0
+    },
+    {
+      "id": 70,
+      "studentId": 9,
+      "exerciseId": 6,
+      "score": 2
+    },
+    {
+      "id": 71,
+      "studentId": 9,
+      "exerciseId": 7,
+      "score": 1
+    },
+    {
+      "id": 72,
+      "studentId": 9,
+      "exerciseId": 8,
+      "score": 1
+    },
+    {
+      "id": 73,
+      "studentId": 10,
+      "exerciseId": 1,
+      "score": 0
+    },
+    {
+      "id": 74,
+      "studentId": 10,
+      "exerciseId": 2,
+      "score": 0
+    },
+    {
+      "id": 75,
+      "studentId": 10,
+      "exerciseId": 3,
+      "score": 3
+    },
+    {
+      "id": 76,
+      "studentId": 10,
+      "exerciseId": 4,
+      "score": 3
+    },
+    {
+      "id": 77,
+      "studentId": 10,
+      "exerciseId": 5,
+      "score": 3
+    },
+    {
+      "id": 78,
+      "studentId": 10,
+      "exerciseId": 7,
+      "score": 2
+    },
+    {
+      "id": 79,
+      "studentId": 10,
+      "exerciseId": 8,
+      "score": 2
+    },
+    {
+      "id": 80,
+      "studentId": 11,
+      "exerciseId": 1,
+      "score": 3
+    },
+    {
+      "id": 81,
+      "studentId": 11,
+      "exerciseId": 2,
+      "score": 1
+    },
+    {
+      "id": 82,
+      "studentId": 11,
+      "exerciseId": 3,
+      "score": 2
+    },
+    {
+      "id": 83,
+      "studentId": 11,
+      "exerciseId": 4,
+      "score": 2
+    },
+    {
+      "id": 84,
+      "studentId": 11,
+      "exerciseId": 5,
+      "score": 1
+    },
+    {
+      "id": 85,
+      "studentId": 11,
+      "exerciseId": 6,
+      "score": 3
+    },
+    {
+      "id": 86,
+      "studentId": 11,
+      "exerciseId": 7,
+      "score": 2
+    },
+    {
+      "id": 87,
+      "studentId": 11,
+      "exerciseId": 8,
+      "score": 3
+    },
+    {
+      "id": 88,
+      "studentId": 12,
+      "exerciseId": 1,
+      "score": 3
+    },
+    {
+      "id": 89,
+      "studentId": 12,
+      "exerciseId": 2,
+      "score": 3
+    },
+    {
+      "id": 90,
+      "studentId": 12,
+      "exerciseId": 3,
+      "score": 1
+    },
+    {
+      "id": 91,
+      "studentId": 12,
+      "exerciseId": 4,
+      "score": 1
+    },
+    {
+      "id": 92,
+      "studentId": 12,
+      "exerciseId": 5,
+      "score": 2
+    },
+    {
+      "id": 93,
+      "studentId": 12,
+      "exerciseId": 6,
+      "score": 3
+    },
+    {
+      "id": 94,
+      "studentId": 12,
+      "exerciseId": 7,
+      "score": 1
+    },
+    {
+      "id": 95,
+      "studentId": 12,
+      "exerciseId": 8,
+      "score": 2
+    },
+    {
+      "id": 96,
+      "studentId": 13,
+      "exerciseId": 1,
+      "score": 2
+    },
+    {
+      "id": 97,
+      "studentId": 13,
+      "exerciseId": 2,
+      "score": 3
+    },
+    {
+      "id": 98,
+      "studentId": 13,
+      "exerciseId": 3,
+      "score": 1
+    },
+    {
+      "id": 99,
+      "studentId": 13,
+      "exerciseId": 4,
+      "score": 2
+    },
+    {
+      "id": 100,
+      "studentId": 13,
+      "exerciseId": 5,
+      "score": 2
+    },
+    {
+      "id": 101,
+      "studentId": 13,
+      "exerciseId": 6,
+      "score": 2
+    },
+    {
+      "id": 102,
+      "studentId": 13,
+      "exerciseId": 7,
+      "score": null
+    },
+    {
+      "id": 103,
+      "studentId": 13,
+      "exerciseId": 8,
+      "score": 3
+    },
+    {
+      "id": 104,
+      "studentId": 14,
+      "exerciseId": 1,
+      "score": 2
+    },
+    {
+      "id": 105,
+      "studentId": 14,
+      "exerciseId": 2,
+      "score": 2
+    },
+    {
+      "id": 106,
+      "studentId": 14,
+      "exerciseId": 3,
+      "score": 3
+    },
+    {
+      "id": 107,
+      "studentId": 14,
+      "exerciseId": 4,
+      "score": 2
+    },
+    {
+      "id": 108,
+      "studentId": 14,
+      "exerciseId": 5,
+      "score": 3
+    },
+    {
+      "id": 109,
+      "studentId": 14,
+      "exerciseId": 6,
+      "score": 2
+    },
+    {
+      "id": 110,
+      "studentId": 14,
+      "exerciseId": 7,
+      "score": null
+    },
+    {
+      "id": 111,
+      "studentId": 14,
+      "exerciseId": 8,
+      "score": 2
+    },
+    {
+      "id": 112,
+      "studentId": 15,
+      "exerciseId": 1,
+      "score": 3
+    },
+    {
+      "id": 113,
+      "studentId": 15,
+      "exerciseId": 2,
+      "score": 3
+    },
+    {
+      "id": 114,
+      "studentId": 15,
+      "exerciseId": 3,
+      "score": 3
+    },
+    {
+      "id": 115,
+      "studentId": 15,
+      "exerciseId": 4,
+      "score": 3
+    },
+    {
+      "id": 116,
+      "studentId": 15,
+      "exerciseId": 5,
+      "score": 3
+    },
+    {
+      "id": 117,
+      "studentId": 15,
+      "exerciseId": 6,
+      "score": 3
+    },
+    {
+      "id": 118,
+      "studentId": 15,
+      "exerciseId": 7,
+      "score": 3
+    },
+    {
+      "id": 119,
+      "studentId": 15,
+      "exerciseId": 8,
+      "score": 3
+    },
+    {
+      "id": 120,
+      "studentId": 16,
+      "exerciseId": 1,
+      "score": 3
+    },
+    {
+      "id": 121,
+      "studentId": 16,
+      "exerciseId": 2,
+      "score": 2
+    },
+    {
+      "id": 122,
+      "studentId": 16,
+      "exerciseId": 3,
+      "score": 1
+    },
+    {
+      "id": 123,
+      "studentId": 16,
+      "exerciseId": 4,
+      "score": 1
+    },
+    {
+      "id": 124,
+      "studentId": 16,
+      "exerciseId": 5,
+      "score": 3
+    },
+    {
+      "id": 125,
+      "studentId": 16,
+      "exerciseId": 6,
+      "score": 3
+    },
+    {
+      "id": 126,
+      "studentId": 16,
+      "exerciseId": 7,
+      "score": null
+    },
+    {
+      "id": 127,
+      "studentId": 16,
+      "exerciseId": 8,
+      "score": 1
+    },
+    {
+      "id": 128,
+      "studentId": 17,
+      "exerciseId": 1,
+      "score": 3
+    },
+    {
+      "id": 129,
+      "studentId": 17,
+      "exerciseId": 2,
+      "score": 2
+    },
+    {
+      "id": 130,
+      "studentId": 17,
+      "exerciseId": 3,
+      "score": 2
+    },
+    {
+      "id": 131,
+      "studentId": 17,
+      "exerciseId": 4,
+      "score": 3
+    },
+    {
+      "id": 132,
+      "studentId": 17,
+      "exerciseId": 5,
+      "score": 2
+    },
+    {
+      "id": 133,
+      "studentId": 17,
+      "exerciseId": 6,
+      "score": 2
+    },
+    {
+      "id": 134,
+      "studentId": 17,
+      "exerciseId": 7,
+      "score": 2
+    },
+    {
+      "id": 135,
+      "studentId": 17,
+      "exerciseId": 8,
+      "score": 3
+    },
+    {
+      "id": 136,
+      "studentId": 18,
+      "exerciseId": 1,
+      "score": 2
+    },
+    {
+      "id": 137,
+      "studentId": 18,
+      "exerciseId": 2,
+      "score": 2
+    },
+    {
+      "id": 138,
+      "studentId": 18,
+      "exerciseId": 3,
+      "score": 3
+    },
+    {
+      "id": 139,
+      "studentId": 18,
+      "exerciseId": 4,
+      "score": null
+    },
+    {
+      "id": 140,
+      "studentId": 18,
+      "exerciseId": 5,
+      "score": 2
+    },
+    {
+      "id": 141,
+      "studentId": 18,
+      "exerciseId": 6,
+      "score": 3
+    },
+    {
+      "id": 142,
+      "studentId": 18,
+      "exerciseId": 7,
+      "score": 1
+    },
+    {
+      "id": 143,
+      "studentId": 18,
+      "exerciseId": 8,
+      "score": 2
+    },
+    {
+      "id": 144,
+      "studentId": 19,
+      "exerciseId": 1,
+      "score": 3
+    },
+    {
+      "id": 145,
+      "studentId": 19,
+      "exerciseId": 2,
+      "score": 2
+    },
+    {
+      "id": 146,
+      "studentId": 19,
+      "exerciseId": 3,
+      "score": 3
+    },
+    {
+      "id": 147,
+      "studentId": 19,
+      "exerciseId": 4,
+      "score": 2
+    },
+    {
+      "id": 148,
+      "studentId": 19,
+      "exerciseId": 5,
+      "score": null
+    },
+    {
+      "id": 149,
+      "studentId": 19,
+      "exerciseId": 6,
+      "score": 3
+    },
+    {
+      "id": 150,
+      "studentId": 19,
+      "exerciseId": 7,
+      "score": 3
+    },
+    {
+      "id": 151,
+      "studentId": 19,
+      "exerciseId": 8,
+      "score": 2
+    },
+    {
+      "id": 152,
+      "studentId": 20,
+      "exerciseId": 1,
+      "score": 2
+    },
+    {
+      "id": 153,
+      "studentId": 20,
+      "exerciseId": 2,
+      "score": 0
+    },
+    {
+      "id": 154,
+      "studentId": 20,
+      "exerciseId": 3,
+      "score": 0
+    },
+    {
+      "id": 155,
+      "studentId": 20,
+      "exerciseId": 4,
+      "score": 3
+    },
+    {
+      "id": 156,
+      "studentId": 20,
+      "exerciseId": 5,
+      "score": 3
+    },
+    {
+      "id": 157,
+      "studentId": 20,
+      "exerciseId": 6,
+      "score": 3
+    },
+    {
+      "id": 158,
+      "studentId": 20,
+      "exerciseId": 7,
+      "score": 3
+    },
+    {
+      "id": 159,
+      "studentId": 20,
+      "exerciseId": 8,
+      "score": 3
+    }
+  ]
+}
