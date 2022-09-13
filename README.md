@@ -84,8 +84,8 @@ While you can research and look up things on the Internet just as you would on t
 
 ## Submit Your Work
 
-To submit your work, create a [git bundle](http://schacon.github.io/git/git-bundle.html) of the entire repository using the command `git bundle create your-name-assessment.bundle --all`, and send the file to `recruiting@techelevator.com`.
+To submit your work, create a [git bundle](http://schacon.github.io/git/git-bundle.html) of the entire repository using the command `git bundle create your-name-assessment.bundle --all`, and send the file to `platforms-assessments@techelevator.com`.
 
 ## Questions?
 
-If you should have any questions related to requirements or expectations, we encourage you to reach out before you dive into the exercise. Please send questions to `recruiting@techelevator.com`.
+If you should have any questions related to requirements or expectations, we encourage you to reach out before you dive into the exercise. Please send questions to `platforms-assessments@techelevator.com`.
